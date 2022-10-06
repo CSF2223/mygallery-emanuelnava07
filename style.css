@@ -6,7 +6,7 @@ secondary color: #002E94
 tertiary color: 
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+sans:wght@300;400;600;700&display=swap');
+@import url('https://fonts.google.com/specimen/Rubik/css2?family=Rubik:wght@300;400;600;700&display=swap');
 
 html{
     font-size: 70%;
@@ -28,7 +28,7 @@ header {
 body {
     background-color: #06283D;
     color: #47B5FF;
-    font-family: 'Open sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     margin: 0;
 }
 
